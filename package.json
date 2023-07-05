@@ -1,0 +1,26 @@
+{
+    "name": "dark-and-purple",
+    "displayName": "Dark-and-Purple",
+    "publisher": "",
+    "description": "Really dark, bit of purple.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "galleryBanner": {
+        "color": "#a52bea",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Requiem Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkandPurple.json"
+            }
+        ]
+    }
+}
